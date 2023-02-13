@@ -1,0 +1,22 @@
+RASA:-
+-------
+Rasa has two frameworks:
+	-> Rasa-nlu
+	-> Rasa-core 
+	
+	
+Stories:-
+----------
+stories the sample conversation which we used to train our model.
+
+nlu.md:-
+---------
+Rasa nlu.md contains the list of intents and their possible sample text. 
+Also, we will map our entities text,separately in this sample. 
+These intents are used to train our NLU model.
+
+domain.yml:-
+------------
+domain.yml file list all intents, bot’s responses with their text,
+and also the action that can be performed by the bot. 
+Note, any action or response we define (in nlu.md/ stories.md) has to be listed in the domain.yml
