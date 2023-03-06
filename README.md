@@ -2,7 +2,7 @@
 
 1. Clone the repository:
 
-    `git clone https://github.com/ongraphpythondev/Rasa_chatbot.git`
+    `git clone https://github.com/BigTail375/RASA_chatbot.git`
 
 2. Create virtual environment and activate it:
 
